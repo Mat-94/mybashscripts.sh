@@ -1,7 +1,7 @@
 #!/bin/bash
 #description: creating a simple script for an ATM user.
 #Author: Mathias
-#Here is the code
+#Here is the code to be executed
 
 echo "welcome to World Bank"
 echo "please insert your card"
